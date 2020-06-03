@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "351166213214",
+    "firebase_url": "https://fittestbmi.firebaseio.com",
+    "project_id": "fittestbmi",
+    "storage_bucket": "fittestbmi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351166213214:android:9768f44d5cfd81001258cf",
+        "android_client_info": {
+          "package_name": "com.example.fittestbmi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "351166213214-khmq7rd6icmp9esbc6itg23t28ku0ub7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fittestbmi",
+            "certificate_hash": "2e47d375baf9c1fb40736db935ffdfeb5ae5f572"
+          }
+        },
+        {
+          "client_id": "351166213214-4ua3fjjfk4jttrlqlnfvbd2pnujt4lbv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAY_4L7XOGSducSyDP8UCYYH_O2TtZW5dg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "351166213214-4ua3fjjfk4jttrlqlnfvbd2pnujt4lbv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
